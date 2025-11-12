@@ -8,6 +8,7 @@ docBuild:
 
 cpContent:
 	cp ~/github/tonygilkerson/notebook/docs/outside/backpacking/yosemite-fall-2025.md src/
+	cp ~/github/tonygilkerson/notebook/docs/outside/backpacking/yosemite-spring-2026.md src/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/Yosemite* src/img/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/yosemite* src/img/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/tuolumne* src/img/
