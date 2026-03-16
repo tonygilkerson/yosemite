@@ -587,9 +587,6 @@ Visitor center and museums in the Yosemite Valley
 * Now you can view the web page off-line
 
 
-# ---------------------------------
-
-
 # Black and white  Rice and Beans
 
 A basic meal with just White rice and black beans, salt and pepper.
@@ -620,9 +617,6 @@ I made this up based on the other recipes.
 * Once fully re-hydrated, stir in the olive oil.
 
 Enjoy!
-
-# ---------------------------------
-
 
 # Hungry Hiker Stew
 
@@ -669,9 +663,6 @@ Taken from the _Homemade Dehydrated Camping Food Recipes_
 Enjoy.
 
 
-# ---------------------------------
-
-
 # Mushroom Pasta Alfredo
 
 Taken from [REI Expert Advice blog](https://www.rei.com/learn/expert-advice/mushroom-pasta-alfredo-backpacking-recipe.html)
@@ -703,9 +694,6 @@ Taken from [REI Expert Advice blog](https://www.rei.com/learn/expert-advice/mush
 * Bring to a boil then remove from heat and place in pot-cozy for 15 min to allow for hydration
 * Add remaining ingredients (noodles and powder ingredients), add a little more water if needed and bring to a boil
 * Reduce heat to a simmer and continue to cook for about 3 minutes or until noodles are tender and the sauce has thickened.
-
-
-# ---------------------------------
 
 
 # Oats
@@ -752,9 +740,6 @@ Alternately you prepare and eat from bag.
 Enjoy
 
 
-# ---------------------------------
-
-
 # Spiced Rice and Beans
 
 White rice and pinto beans
@@ -792,9 +777,6 @@ Created with ChatGPT
 
 
 Enjoy!
-
-# ---------------------------------
-
 
 # Tonys Spaghetti
 
