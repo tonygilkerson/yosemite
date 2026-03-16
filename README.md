@@ -28,5 +28,5 @@ make docBuild
 git add . # you should see changes in the /docs directory
 git commit -m "publish"; git push;
 
-open https://tonygilkerson.github.io/yosemite2025/
+open https://tonygilkerson.github.io/yosemite
 ```

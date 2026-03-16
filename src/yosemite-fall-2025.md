@@ -595,29 +595,29 @@ Visitor center and museums in the Yosemite Valley
 A basic meal with just White rice and black beans, salt and pepper.
 I made this up based on the other recipes.
 
-| Ingredient             | Amount           | Notes             |
-| ---------------------- | ---------------- | ----------------- |
-| Instant white rice     | **60g**          | Base carb         |
-| Dehydrated black beans | **30g**          | Protein + fiber   |
-| Salt                   | **0.25 tsp**     | Adjust as needed  |
-| Black pepper           | **0.25 tsp**     | Optional heat     |
-| Extra Virgin Olive Oil | **3 tsp** (≈15g) | Add after cooking |
+| Ingredient             |       Amount | Notes                 |
+| ---------------------- | -----------: | --------------------- |
+| Instant white rice     |          60g |                       |
+| Dehydrated black beans |          30g |                       |
+| Salt                   |     0.25 tsp | Adjust as needed      |
+| Black pepper           |     0.25 tsp | Optional heat         |
+| Extra Virgin Olive Oil | 3 tsp (≈15g) | Add after rehydration |
 
-## Preparation at Home
+## Home
 
 * Place all dry ingredients into a vacuum-sealed bag
 
 * Place oil in separate inner package
 
-## Trail Instructions
+## Camp
 
-* Empty dry mix into pot or rehydration bag.
+* Empty dry mix into pot or re-hydration bag.
 
 * Add 250–300 ml of hot water, stir well.
 
 * Let sit for 10–12 minutes (insulate if possible), stirring occasionally.
 
-* Once fully rehydrated, stir in the olive oil.
+* Once fully re-hydrated, stir in the olive oil.
 
 Enjoy!
 
@@ -626,35 +626,37 @@ Enjoy!
 
 # Hungry Hiker Stew
 
-Taken from the *Homemade Dehydrated Camping Food Recipes*
+Taken from the _Homemade Dehydrated Camping Food Recipes_
 
 ## Ingredients
 
-* 40 grams dehydrated red beans or dehydrated TVP crumbles (ground beef substitute)
-* 15 grams dehydrated RoTel Diced Tomatoes with Green Chili  
-* 5 grams dehydrated carrot  
-* 10 grams dehydrated new potato  
-* 10 grams dehydrated peas  
-* 10 grams dehydrated corn  
-* 5 grams dehydrated green beans  
-* 1 tsp Lipton Onion Soup & Dip Mix  
-* 1 tsp Worcestershire sauce powder  
-* 1 tsp garlic powder
-* 1 tsp onion powder
-* 1/8 tsp ground bay leaf
-* 1 Tbsp olive oil pack
+| Ingredient                                                                   |   Amount | Notes                 |
+| ---------------------------------------------------------------------------- | -------: | --------------------- |
+| Dehydrated red beans <br> or dehydrated TVP crumbles (ground beef substitute) | 40 grams |                       |
+| Dehydrated RoTel Diced Tomatoes with Green Chili                             | 15 grams |                       |
+| Dehydrated carrot                                                            |  5 grams |                       |
+| Dehydrated new potato                                                        | 10 grams |                       |
+| Dehydrated peas                                                              | 10 grams |                       |
+| Dehydrated corn                                                              | 10 grams |                       |
+| Dehydrated green beans                                                       |  5 grams |                       |
+| Lipton Onion Soup & Dip Mix                                                  |    1 tsp |                       |
+| Worcestershire sauce powder                                                  |    1 tsp |                       |
+| Garlic powder                                                                |    1 tsp |                       |
+| Onion powder                                                                 |    1 tsp |                       |
+| Ground bay leaf                                                              |  1/8 tsp |                       |
+| Olive oil pack                                                               |   1 Tbsp | Add after rehydration |
 
-## Preparation at Home
+## Home
 
 * Place all dry ingredients into a vacuum-sealed bag
 
 * Place oil in separate inner package
 
-## Trail Instructions
+## Trail
 
 * **Cold Soak** - 30 min or more before you reach camp, place dry ingredients in nalgene bottle. Cover ingredients plus a little extra.  Shake, to mix.
  
-## Trail Instructions
+## Camp
 
 * **Hydrate 5 min** - Place dry ingredients in a cooking pot. Pour in enough water to cover the dry ingredients, plus a little extra. Stir well to combine. Cover, and let the dry ingredients hydrate for a minimum of five minutes. Stir well to combine. Add more water if needed to keep the ingredients covered and well-saturated.
 
@@ -676,24 +678,26 @@ Taken from [REI Expert Advice blog](https://www.rei.com/learn/expert-advice/mush
 
 ## Ingredients
 
-* 80g of noodles (before cooking and dehydrating)
-* 1/4 cup whole milk powder
-* 1.5 tablespoons butter powder
-* 1/5 teaspoons Italian seasoning
-* 1/8 teaspoon garlic powder
-* 3 grams dehydrated mushrooms
-* 3 grams dehydrated peas  
-* 8 grams sun-dried tomatoes
-* 1/2 of a 1.5 ounces Alfredo sauce packet
-* 1 cups water
+| Ingredient           |                 Amount | Notes                                 |
+| -------------------- | ---------------------: | ------------------------------------- |
+| Noodles              |                   80 g | weight before cooking and dehydrating |
+| Whole milk powder    |                1/4 cup |                                       |
+| Butter powder        |               1.5 Tbsp |                                       |
+| Italian seasoning    |                1/5 tsp |                                       |
+| Garlic powder        |                1/8 tsp |                                       |
+| Dehydrated mushrooms |                3 grams |                                       |
+| Dehydrated peas      |                3 grams |                                       |
+| Sun-dried tomatoes   |                8 grams |                                       |
+| Alfredo sauce packet | 1/2 of a 1.5 oz packet |                                       |
+| Water                |                  1 cup |                                       |
 
-## Preparation at Home
+## Home
 
 * Cook and dehydrate noodles
 * Cut sun-dried tomatoes so you have about 8 pieces
 * Place dehydrated ingredients, mushrooms, peas and sun-dried tomatoes in separate inner package
 
-## Preparation at Camp
+## Camp
 
 * Place inner package (mushrooms, peas and tomatoes) and about 1 cup of water in a pot.
 * Bring to a boil then remove from heat and place in pot-cozy for 15 min to allow for hydration
@@ -717,12 +721,21 @@ I made this up.
 * 15 grams Raisins or Dried Cranberries
 * 1.75 cups water
 
-## Preparation at Home
+| Ingredient                       |    Amount | Notes |
+| -------------------------------- | --------: | ----- |
+| Oats                             |     1 cup |       |
+| Salt                             |   1/8 tsp |       |
+| Sugar                            |      25 g |       |
+| Butter powder                    |    1 Tbsp |       |
+| Raisins **or** dried cranberries |  15 grams |       |
+| Water                            | 1.75 cups |       |
+
+## Home
 
 * Place dry ingredients; oats, salt, sugar and butter power in vacuum bag
 * Place Raisins/Cranberries in separate inner package
 
-## Preparation at Camp
+## Camp
 
 * Remove inner package and pour contents into a pot
 * Add water and bring to a boil
@@ -748,26 +761,26 @@ White rice and pinto beans
 
 Created with ChatGPT
 
-| Ingredient             | Amount           | Notes             |
-| ---------------------- | ---------------- | ----------------- |
-| Instant white rice     | **60g**          | Base carb         |
-| Dehydrated pinto beans | **30g**          | Protein + fiber   |
-| Onion powder           | **1 tsp**        | Flavor base       |
-| Garlic powder          | **0.5 tsp**      | Strong flavor     |
-| Chili powder           | **0.5 tsp**      | Mild heat         |
-| Paprika powder         | **0.5 tsp**      | Smoky-sweet       |
-| Salt                   | **0.25 tsp**     | Adjust as needed  |
-| Black pepper           | **0.25 tsp**     | Optional heat     |
-| Portuguese seasoning   | **0.5 tsp**      | Adds savory depth |
-| Extra Virgin Olive Oil | **3 tsp** (≈15g) | Add after cooking |
+| Ingredient             |       Amount | Notes             |
+| ---------------------- | -----------: | ----------------- |
+| Instant white rice     |          60g | Base carb         |
+| Dehydrated pinto beans |          30g | Protein + fiber   |
+| Onion powder           |        1 tsp | Flavor base       |
+| Garlic powder          |      0.5 tsp | Strong flavor     |
+| Chili powder           |      0.5 tsp | Mild heat         |
+| Paprika powder         |      0.5 tsp | Smoky-sweet       |
+| Salt                   |     0.25 tsp | Adjust as needed  |
+| Black pepper           |     0.25 tsp | Optional heat     |
+| Portuguese seasoning   |      0.5 tsp | Adds savory depth |
+| Extra Virgin Olive Oil | 3 tsp (≈15g) | Add after cooking |
 
-## Preparation at Home
+## Home
 
 * Mix all dry ingredients (except olive oil) into a resealable bag or vacuum-sealed pouch.
 
 * Pack olive oil separately in a leakproof container (e.g., mini Nalgene bottle).
 
-## Trail Instructions
+## Instructions
 
 * Empty dry mix into pot or rehydration bag.
 
@@ -789,24 +802,24 @@ I made this one up :-)
 
 ## Ingredients
 
-* 60 grams dehydrated cut spaghetti
-* 45 grams dehydrated Traditional Pasta Sauce (the one with no oil)
-* 2 grams dehydrated chopped mushrooms
-* 1/2 tsp garlic powder
-* 1/2 tsp onion powder
-* 1/4 tsp italian seasoning
-* 1 Tbsp olive oil pack
-* 3 Tbsp romano cheese pack
+| Ingredient                                  |   Amount | Notes                                                                                          |
+| ------------------------------------------- | -------: | ---------------------------------------------------------------------------------------------- |
+| Dehydrated cut spaghetti                    | 60 grams | Cut pasta works better in the vacuum bags and is easier to eat with a spoon from a meal pouch. |
+| Dehydrated Traditional Pasta Sauce (no oil) | 45 grams | No Oil                                                                                         |
+| Dehydrated chopped mushrooms                |  2 grams |                                                                                                |
+| Garlic powder                               |  1/2 tsp |                                                                                                |
+| Onion powder                                |  1/2 tsp |                                                                                                |
+| Italian seasoning                           |  1/4 tsp |                                                                                                |
+| Olive oil pack                              |   1 Tbsp |                                                                                                |
+| Romano cheese pack                          |   3 Tbsp |                                                                                                |
 
-## Notes
+## Home
 
-* **Spaghetti** - Can use regular long spaghetti but I find the cut pasta works better in the vacuum bags and is easier to eat with a spoon from a meal pouch.
-
-* **Mushrooms** - Remove stem and cut into small pieces to aid in the hydration process
+* **Mushrooms** - Remove stem and cut into thin pieces to aid in the hydration process
 
 * **Package** - Combine dry ingredients and the two small oil and cheese packs into one vacuum bag
 
-## Method
+## Camp
 
 * **Unpack** - Pour dry ingredients from two packs into pot, set aside the oil and cheese packs.
 
