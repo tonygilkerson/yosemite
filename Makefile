@@ -14,6 +14,7 @@ cpContent:
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/tuolumne* src/img/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/pdf/yosemite* src/pdf/
 
+
 	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-fall-2025.md
 	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/black-and-white-rice-and-beans.md >> src/yosemite-fall-2025.md
 	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-fall-2025.md
@@ -26,4 +27,17 @@ cpContent:
 	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/spiced-rice-and-beans.md >> src/yosemite-fall-2025.md
 	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-fall-2025.md
 	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/tonys-spaghetti.md >> src/yosemite-fall-2025.md
+
+	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-spring-2026.md
+	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/black-and-white-rice-and-beans.md >> src/yosemite-spring-2026.md
+	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-spring-2026.md
+	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/hungry-hiker-stew.md >> src/yosemite-spring-2026.md
+	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-spring-2026.md
+	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/mushroom-pasta-alfredo.md >> src/yosemite-spring-2026.md
+	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-spring-2026.md
+	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/oats.md >> src/yosemite-spring-2026.md
+	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-spring-2026.md
+	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/spiced-rice-and-beans.md >> src/yosemite-spring-2026.md
+	echo "\n\n# ---------------------------------\n\n" >> src/yosemite-spring-2026.md
+	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/tonys-spaghetti.md >> src/yosemite-spring-2026.md
 	
