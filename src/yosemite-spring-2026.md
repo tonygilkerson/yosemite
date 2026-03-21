@@ -2,24 +2,32 @@
 
 Happy Isles/Little Yosemite Valley Spring April 2026
 
-**Reservation**: `0843051152-1`
+>The [Trip Site](https://tonygilkerson.github.io/yosemite/yosemite-spring-2026/) contains a read-only copy of this page and supplementary material to be made available off-line
+
+**Reservation**: [0843051152-1](https://www.recreation.gov/account/reservations/upcoming](https://www.recreation.gov/account/orders/0843051152/reservations/b843e2c1-e30c-4c66-ba79-dc63e1323d47__445859))
+
+>see [my reservations](https://www.recreation.gov/account/reservations/upcoming) on [www.recreation.gov](https://www.recreation.gov)
+
+This reservation can be view using the [recreation.gov mobile app](https://www.recreation.gov/mobile-app)
+- [ ] LT please install/update this app
+- [ ] TMG please install/update this app
 
 Little Yosemite Valley is the most popular area in the Yosemite Wilderness and I just won the lottery for 3 to stay at Little Yosemite Valley!
 
 ## The Plan
 
-| Trip<BR>Day | Day    | Description               | Stay  | Distance<br>Elevation Gain/Loss |
-| ----------- | ------ | ------------------------- | ----- | ------------------------------- |
-| 0           | Fri 24 | Fly to LA<br>Hotel in LA  | Hotel |                                 |
-| 1           | Sat 25 | Drive to Yosemite BPCG YV | ⛺️ YV  |                                 |
-| 2           | Sun 26 | Hike 1 `-->` YV           | ⛺️ LYV | 4.4 mi / 2,395 ft ⬆️             |
-| 3           | Mon 27 | Hike 2 `<->` Half Dome    | ⛺️ LYV | 6.8 mi / 2,685 ft ⬆️ 🔁           |
-| 4           | Tue 28 | Hike 3 `<->` Lost Lake    | ⛺️ LYV | 2.4 mi / 196 ft ⬆️               |
-| 5           | Wed 29 | Hike 4 `<--` Out          | Hotel | 5.5 mi / 2,801 ft ⬇️             |
-| 6           | Thr 30 | Drive to LA               | Hotel |                                 |
-| 7           | Fri 01 | TBD                       | TBD   |                                 |
-| 8           | Sat 02 | TBD                       | TBD   |                                 |
-| 9           | Sun 03 | Fly to Ohio               | Home  |                                 |
+| Trip<BR>Day | Day    | Description               | Stay     | Distance<br>Elevation Gain/Loss |
+| ----------- | ------ | ------------------------- | -------- | ------------------------------- |
+| 0           | Fri 24 | Fly to LA<br>Hotel in LA  | LT's Pad |                                 |
+| 1           | Sat 25 | Drive to Yosemite BPCG YV | ⛺️ YV     |                                 |
+| 2           | Sun 26 | Hike 1 `-->` YV           | ⛺️ LYV    | 4.4 mi / 2,395 ft ⬆️             |
+| 3           | Mon 27 | Hike 2 `<->` Half Dome    | ⛺️ LYV    | 6.8 mi / 2,685 ft ⬆️ 🔁           |
+| 4           | Tue 28 | Hike 3 `<->` Lost Lake    | ⛺️ LYV    | 2.4 mi / 196 ft ⬆️               |
+| 5           | Wed 29 | Hike 4 `<--` Out          | TBD      | 5.5 mi / 2,801 ft ⬇️             |
+| 6           | Thr 30 | Drive to LA               | TBD      |                                 |
+| 7           | Fri 01 | TBD                       | TBD      |                                 |
+| 8           | Sat 02 | TBD                       | LT's Pad |                                 |
+| 9           | Sun 03 | Fly to Ohio               | Home     |                                 |
 
 * **Little Yosemite Valley (LYV)** - Elevation 6,125 ft
 * **Half Dome** - Elevation 8,772 ft
@@ -34,7 +42,13 @@ todo
 
 ## Meal Plan
 
-todo
+Status:
+
+* Finished dehydrating ingredients for **Hungry Hiker Stew**
+* This Saturday 3/21
+  * Will start preparing **Hungry Hiker Stew** into vacuum bags next
+  * Will be shopping for ingredients for next recipe, **Tony's Spaghetti!**
+  * Will start dehydration for next recipe
 
 ## Little Yosemite Valley Campground
 
@@ -73,9 +87,88 @@ Who ever ends up being DJ1 I want to request the following songs:
 - Elton John & Dua Lipa's Cold Heart
 - Select songs form Highschool Musical
 
+## Appendix - Reservation Detail From recreation.gov
+
+### Reservation Details
+
+>**Info Notification**:
+>You are required to pick up your permit in person at an onsite issuing station. See the Need to Know and Issuing Station information below for details on picking up your permit.
+
+### Reservation: #0843051152-1
+
+| Section               | Field            | Value                                                                                                                                                                                |
+| --------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Facility Details      | Facility Name    | Yosemite National Park Wilderness Permits                                                                                                                                            |
+|                       | Location         | Yosemite National Park, California                                                                                                                                                   |
+|                       | Permit Status    | Reserved - Reviewed                                                                                                                                                                  |
+| Permit Holder Details | Name             | Tony Gilkerson                                                                                                                                                                       |
+|                       | Phone            | 6143135840                                                                                                                                                                           |
+|                       | Email            | tonygilkerson@yahoo.com                                                                                                                                                              |
+|                       | Address          | 2249 Stratford Road, Delaware, OH, USA, 43065                                                                                                                                        |
+|                       | Travel Type      | Foot                                                                                                                                                                                 |
+| Permit Details        | Reservation Type | Non-Commercial                                                                                                                                                                       |
+|                       | Entry Point      | Happy Isles->Little Yosemite Valley (No Donohue Pass)                                                                                                                                |
+|                       | Entry Date       | Apr 26, 2026                                                                                                                                                                         |
+|                       | Exit Date        | Apr 29, 2026                                                                                                                                                                         |
+|                       | Exit Point       | Happy Isles->Illilouette                                                                                                                                                             |
+|                       | Comments         | Day 1 - We plan to hike up to Little Yosemite Valley (LYV) and setup camp. Day 2 - Hike up to Half Dome then back to LYV Day 3 - Hike to Lost Lake then back to LYV Day 4 - Hike out |
+|                       | Sales Channel    | Online                                                                                                                                                                               |
+|                       | Late Arrival     | No                                                                                                                                                                                   |
+
+### Group Size - Passes
+
+Total Group Size: 3
+
+### Itinerary Details
+
+| Date         | Camp Area              |
+| ------------ | ---------------------- |
+| Apr 26, 2026 | Little Yosemite Valley |
+| Apr 27, 2026 | Little Yosemite Valley |
+| Apr 28, 2026 | Little Yosemite Valley |
+
+### Payment History
+
+| Date         | Type | Payment Method | Amount |
+| ------------ | ---- | -------------- | ------ |
+| Nov 11, 2025 | SALE | CARD           | $15.00 |
+
+### Need To Know
+
+>**Important Information**
+>Below you will find important information that regards your stay with us.
+
+Facility Information
+
+**This is not your permit.** Please read the following information carefully.
+
+You must pick up your permit in person at any open [Yosemite Wilderness Permit Station](https://www.nps.gov/yose/planyourvisit/permitstations.htm) (stations open seasonally, not limited to your listed issuing station) the day before, or the day of your permit entry date. You must pick up your permit by 11:00 a.m. on your entry date or place it on hold for late pick-up, or it will be cancelled. To place your permit on hold, log in to your Recreation.gov account to modify your permit reservation and mark it for late pick-up once you are within one week of your entry date. 
+
+**Other things you need to know:**
+
+* [Bear-Resistant Food Storage](http://www.nps.gov/yose/planyourvisit/bearcans.htm) is required for all overnight stays in Yosemite Wilderness. Bear canisters are available for rent at a [Yosemite Wilderness Permit Station](http://www.nps.gov/yose/planyourvisit/permitstations.htm) for $5 per week (deposit required).
+
+* Check [Current Wilderness Conditions](http://www.nps.gov/yose/planyourvisit/wildcond.htm) for trail conditions and timely updates.
+
+* More information is available on the [Yosemite Backpacking](http://www.nps.gov/yose/planyourvisit/backpacking.htm) page.
+
+* Explore [Public Transportation Options](https://www.nps.gov/yose/planyourvisit/bus.htm) for going to and getting around Yosemite National Park.
+
+* [Backpackers campgrounds](https://www.nps.gov/yose/planyourvisit/bpcamp.htm) (open seasonally) are available for wilderness permit holders to spend one night before and one night after a wilderness trip. Reservations are not required nor necessary. The fee is $8 per person, per night (Payment only via [Recreation.gov Mobile App](https://www.recreation.gov/mobile-app)). No cash.   
+
+**To contact us:**
+
+* Preferred: If you have other questions about reservations please fill out [this form](https://yosemite.org/contact-us/) and we will get back to you within two business days.
+
+* For assistance with your reservation, call 209-372-0740 (Monday through Friday, 9:00 a.m. to 4:00 p.m.).
+
+* If you have general questions about Yosemite Wilderness, call 209-372-0826 (Monday through Friday, 9:00 a.m. to 4:30 p.m.). This number is generally staffed between early May and mid October. 
+
 ---
 
 ## Recipes
+
+<!-- Don't add any content beyond this point. I have a script that will append the recipes -->
 
 
 # Black and white  Rice and Beans

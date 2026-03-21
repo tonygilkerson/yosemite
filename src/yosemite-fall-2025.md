@@ -4,7 +4,7 @@ Me and LT are doing it!
 
 ![Rafferty Creek->Vogelsang](img/Yosemite-Rafferty-Creek-Vogelsang.png)
 
->The [Trip Site](https://tonygilkerson.github.io/yosemite2025/) contains a readonly copy of the Plan and supplementary material to be made available off-line
+>The [Trip Site](https://tonygilkerson.github.io/yosemite/yosemite-fall-2025/) contains a read-only copy of the Plan and supplementary material to be made available off-line
 
 ---
 
@@ -23,8 +23,8 @@ Me and LT are doing it!
 | 6           | Fri | 26  | Drive to LA           | Hotel |
 | 7           | Sat | 27  | Fly to Ohio           | Home  |
 
->**BPC** - Backpacker's Camp, The Valley<br>
->**HSC** - High Sierra Camp<br>
+> **BPC** - Backpacker's Camp, The Valley
+> **HSC** - High Sierra Camp
 
 ### Plan Day-by-Day
 
