@@ -12,6 +12,7 @@ cpContent:
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/Yosemite* src/img/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/yosemite* src/img/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/tuolumne* src/img/
+	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/sar* src/img/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/pdf/yosemite* src/pdf/
 
 	echo "\n" >> src/yosemite-fall-2025.md

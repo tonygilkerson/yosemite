@@ -2,25 +2,27 @@
 
 Happy Isles/Little Yosemite Valley Spring April 2026
 
->The [Trip Site](https://tonygilkerson.github.io/yosemite/yosemite-spring-2026/) contains a read-only copy of this page and supplementary material to be made available off-line
-
-**Reservation**: [0843051152-1](https://www.recreation.gov/account/reservations/upcoming](https://www.recreation.gov/account/orders/0843051152/reservations/b843e2c1-e30c-4c66-ba79-dc63e1323d47__445859))
-
->see [my reservations](https://www.recreation.gov/account/reservations/upcoming) on [www.recreation.gov](https://www.recreation.gov)
-
-This reservation can be view using the [recreation.gov mobile app](https://www.recreation.gov/mobile-app)
-- [ ] LT please install/update this app
-- [ ] TMG please install/update this app
-
 Little Yosemite Valley is the most popular area in the Yosemite Wilderness and I just won the lottery for 3 to stay at Little Yosemite Valley!
 
-## The Plan
+* The [Trip Site](https://tonygilkerson.github.io/yosemite/yosemite-spring-2026/) contains a read-only copy of this page and supplementary material to be made available off-line
+* **Reservation**: [0843051152-1](https://www.recreation.gov/account/reservations/upcoming](https://www.recreation.gov/account/orders/0843051152/reservations/b843e2c1-e30c-4c66-ba79-dc63e1323d47__445859)) - see [my reservations](https://www.recreation.gov/account/reservations/upcoming) on [www.recreation.gov](https://www.recreation.gov). This reservation can be view using the [recreation.gov mobile app](https://www.recreation.gov/mobile-app)
+* See the [Yosemite Guide Brochure](pdf/yosemite-guide-51-3-508V1.pdf) for Yosemite essentials, park map, services, transportation, programs and Valley trails.
 
+## ToDos
+
+- [ ] Install backup copy of onX on TMG's phone
+- [ ] Download off-line copy of this page to everyone's phone (aeg to text instructions)
+- [ ]  Prepare food and finilize meal plan (AEG)
+- [ ]  Estimate how much fuel we need (aeg todo, but LT needs to purchase it once we know)
+- [ ]  TBDs for day 5,6 and 7, including any hotel reservations (LT and TMG)
+- [ ]  Rental Car (?)
+
+## The Plan
 | Trip<BR>Day | Day    | Description               | Stay     | Distance<br>Elevation Gain/Loss |
 | ----------- | ------ | ------------------------- | -------- | ------------------------------- |
 | 0           | Fri 24 | Fly to LA<br>Hotel in LA  | LT's Pad |                                 |
 | 1           | Sat 25 | Drive to Yosemite BPCG YV | ⛺️ YV     |                                 |
-| 2           | Sun 26 | Hike 1 `-->` YV           | ⛺️ LYV    | 4.4 mi / 2,395 ft ⬆️             |
+| 2           | Sun 26 | Hike 1 `-->` LYV          | ⛺️ LYV    | 4.4 mi / 2,395 ft ⬆️             |
 | 3           | Mon 27 | Hike 2 `<->` Half Dome    | ⛺️ LYV    | 6.8 mi / 2,685 ft ⬆️ 🔁           |
 | 4           | Tue 28 | Hike 3 `<->` Lost Lake    | ⛺️ LYV    | 2.4 mi / 196 ft ⬆️               |
 | 5           | Wed 29 | Hike 4 `<--` Out          | TBD      | 5.5 mi / 2,801 ft ⬇️             |
@@ -31,6 +33,8 @@ Little Yosemite Valley is the most popular area in the Yosemite Wilderness and I
 
 * **Little Yosemite Valley (LYV)** - Elevation 6,125 ft
 * **Half Dome** - Elevation 8,772 ft
+* **Quarter Dome** (QD) - Elevation 8,274 ft
+* **Clouds Rest** (CR) - Elevation 9,912 ft
 
 ## Hotel Reservation
 
@@ -49,23 +53,6 @@ Status:
   * Will start preparing **Hungry Hiker Stew** into vacuum bags next
   * Will be shopping for ingredients for next recipe, **Tony's Spaghetti!**
   * Will start dehydration for next recipe
-
-## Little Yosemite Valley Campground
-
-See [Half Dome and Little Yosemite Valley](https://www.nps.gov/yose/planyourvisit/lyv.htm)
-
-* **Food lockers** - food lockers are available
-* **Tent** - The campground is minimally developed and there are no check-in or check-out procedures. You may leave your tent up during the day while day hiking.
-* **Toilet** - A composting toilet is available for use near the campground!
-* **Potable Water** - Potable (drinking) water is not available at the campground. River water is available nearby, at the Merced River.
-
-## Half Dome Permits for Backpackers
-
-See [Half Dome Permits](https://www.nps.gov/yose/planyourvisit/hdwildpermits.htm)
-
-If you want to hike to the top of Half Dome as part of your overnight wilderness trip, you can add Half Dome permits for all or some members of your group. You do not need to reserve this in advance; you can simply add it upon request when you pick up your wilderness permit. The cost is $10 per person (paid when you pick up your permits). These Half Dome permits are only available for overnight backpackers and are not valid for day hikers.
-
-Half Dome permits received in this way will be valid for all dates your wilderness permit is valid
 
 ## For Fun
 
@@ -87,14 +74,85 @@ Who ever ends up being DJ1 I want to request the following songs:
 - Elton John & Dua Lipa's Cold Heart
 - Select songs form Highschool Musical
 
+## Appendix - Half Dome Permits for Backpackers
+
+See [Half Dome Permits](https://www.nps.gov/yose/planyourvisit/hdwildpermits.htm)
+
+If you want to hike to the top of Half Dome as part of your overnight wilderness trip, you can add Half Dome permits for all or some members of your group. You do not need to reserve this in advance; you can simply add it upon request when you pick up your wilderness permit. The cost is $10 per person (paid when you pick up your permits). These Half Dome permits are only available for overnight backpackers and are not valid for day hikers.
+
+Half Dome permits received in this way will be valid for all dates your wilderness permit is valid
+
+## Appendix - LYV Campground
+
+**Summary**
+
+See [Half Dome and Little Yosemite Valley](https://www.nps.gov/yose/planyourvisit/lyv.htm)
+
+* **Food lockers** - food lockers are available
+* **Tent** - The campground is minimally developed and there are no check-in or check-out procedures. You may leave your tent up during the day while day hiking.
+* **Toilet** - A composting toilet is available for use near the campground!
+* **Potable Water** - Potable (drinking) water is not available at the campground. River water is available nearby, at the Merced River.
+
+**Half Dome and Little Yosemite Valley**
+
+Little Yosemite Valley is the most popular area in the Yosemite Wilderness, mainly because it provides easy access to Half Dome. Wilderness permits for the trails leading to Little Yosemite Valley are the most difficult to obtain, and a wilderness permit reservation is strongly recommended. (A permit is now required for day hikers and backpackers hiking to Half Dome.)
+
+**Camping on the Way to Half Dome**
+
+The first camping available is at the Little Yosemite Valley Campground: camping is not permitted between Yosemite Valley and Little Yosemite Valley. If you would like to camp in a dispersed wilderness setting, you must camp at or beyond the Half Dome/John Muir Trail junction or beyond Moraine Dome on the trail toward Merced Lake. Camping is not permitted on top of Half Dome or at Lost Lake.
+
+If you have a wilderness permit for Happy Isles to Little Yosemite Valley or Glacier Point to Little Yosemite Valley, you must camp in Little Yosemite Valley campground on the first night (and may camp there on subsequent nights) of your hike. If you have a permit for another trailhead, you will have to camp elsewhere your first night, but you can stay in Little Yosemite Valley on subsequent nights. If you have a permit for Happy Isles to Merced Lake or Glacier Point to Illilouette, you can not camp in the Little Yosemite Valley area on the first night of your hike.
+
+No other permit or reservation is required to camp at Little Yosemite Valley.
+
+**Little Yosemite Valley Campground**
+
+The campground is minimally developed and there are no check-in or check-out procedures. You may leave your tent up during the day while day hiking.
+
+**Food Lockers**
+
+Bears frequent the Little Yosemite Valley area, so be careful with your food, toiletries, and trash. Your food and related items must be stored in a closed and latched food locker or bear canister unless you're within arm's reach of the food. (Read more about proper food storage or what do to if you see a bear.) Food lockers are communal, so do not store non-food items and do not put padlocks on the lockers. Pack out your trash.
+
+**Campfires**
+
+Fires are allowed in the two communal campfire rings just outside the campground. You may collect dead and down firewood to burn (try to limit yourself to wood smaller than your wrist). Do not burn trash.
+
+**Composting Toilet**
+
+A composting toilet is available for use near the campground. When away from the campground, be sure to bury your waste at least six inches deep and at least 100 feet from any water source and trail. Pack out toilet paper and hygiene products.
+
+**Potable Water**
+
+Potable (drinking) water is not available at the campground. River water is available nearby, at the Merced River. Use established paths to reach the river to prevent habitat and riverbank damage. Treat river water with a giardia-rated filter, by boiling, or with iodine. The river is the only water source for the area; do not wash dishes or clothing in the river. Never use any soap (even if natural or biodegradable) in the river. Do all washing at least 100 feet from the river. Scatter strained dishwater away from the campground and river.
+
+## Appendix - SAR
+
+We are covered!
+
+![sar100](img/sar100-for-aeg-lg-tmg.png)
+
+## Appendix - Garmin Plan
+
+**inReach Enabled Plan**
+
+$7.99 USD per month 
+_Plus taxes and fees where applicable_
+
+**Pay-as-you-go for satellite messaging (except unlimited SOS)**
+
+- Unlimited SOS and messaging with Garmin Response℠
+- $0.10 USD per check-in message or reaction
+- $0.10 USD per tracking point
+- $0.50 USD per text message or weather forecast
+
 ## Appendix - Reservation Detail From recreation.gov
 
-### Reservation Details
+**Reservation Details**
 
 >**Info Notification**:
 >You are required to pick up your permit in person at an onsite issuing station. See the Need to Know and Issuing Station information below for details on picking up your permit.
 
-### Reservation: #0843051152-1
+**Reservation: #0843051152-1**
 
 | Section               | Field            | Value                                                                                                                                                                                |
 | --------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -115,11 +173,11 @@ Who ever ends up being DJ1 I want to request the following songs:
 |                       | Sales Channel    | Online                                                                                                                                                                               |
 |                       | Late Arrival     | No                                                                                                                                                                                   |
 
-### Group Size - Passes
+**Group Size - Passes**
 
 Total Group Size: 3
 
-### Itinerary Details
+**Itinerary Details**
 
 | Date         | Camp Area              |
 | ------------ | ---------------------- |
@@ -127,22 +185,22 @@ Total Group Size: 3
 | Apr 27, 2026 | Little Yosemite Valley |
 | Apr 28, 2026 | Little Yosemite Valley |
 
-### Payment History
+**Payment History**
 
 | Date         | Type | Payment Method | Amount |
 | ------------ | ---- | -------------- | ------ |
 | Nov 11, 2025 | SALE | CARD           | $15.00 |
 
-### Need To Know
+**Need To Know**
 
 >**Important Information**
 >Below you will find important information that regards your stay with us.
 
-Facility Information
+**Facility Information**
 
 **This is not your permit.** Please read the following information carefully.
 
-You must pick up your permit in person at any open [Yosemite Wilderness Permit Station](https://www.nps.gov/yose/planyourvisit/permitstations.htm) (stations open seasonally, not limited to your listed issuing station) the day before, or the day of your permit entry date. You must pick up your permit by 11:00 a.m. on your entry date or place it on hold for late pick-up, or it will be cancelled. To place your permit on hold, log in to your Recreation.gov account to modify your permit reservation and mark it for late pick-up once you are within one week of your entry date. 
+You must pick up your permit in person at any open [Yosemite Wilderness Permit Station](https://www.nps.gov/yose/planyourvisit/permitstations.htm) (stations open seasonally, not limited to your listed issuing station) the day before, or the day of your permit entry date. You must pick up your permit by 11:00 a.m. on your entry date or place it on hold for late pick-up, or it will be canceled. To place your permit on hold, log in to your Recreation.gov account to modify your permit reservation and mark it for late pick-up once you are within one week of your entry date. 
 
 **Other things you need to know:**
 
@@ -166,7 +224,7 @@ You must pick up your permit in person at any open [Yosemite Wilderness Permit 
 
 ---
 
-## Recipes
+## Appendix - Recipes
 
 <!-- Don't add any content beyond this point. I have a script that will append the recipes -->
 
@@ -208,21 +266,21 @@ Taken from the _Homemade Dehydrated Camping Food Recipes_
 
 ## Ingredients
 
-| Ingredient                                                                   |   Amount | Notes                 |
-| ---------------------------------------------------------------------------- | -------: | --------------------- |
-| Dehydrated red beans <br> or dehydrated TVP crumbles (ground beef substitute) | 40 grams |                       |
-| Dehydrated RoTel Diced Tomatoes with Green Chili                             | 15 grams |                       |
-| Dehydrated carrot                                                            |  5 grams |                       |
-| Dehydrated new potato                                                        | 10 grams |                       |
-| Dehydrated peas                                                              | 10 grams |                       |
-| Dehydrated corn                                                              | 10 grams |                       |
-| Dehydrated green beans                                                       |  5 grams |                       |
-| Lipton Onion Soup & Dip Mix                                                  |    1 tsp |                       |
-| Worcestershire sauce powder                                                  |    1 tsp |                       |
-| Garlic powder                                                                |    1 tsp |                       |
-| Onion powder                                                                 |    1 tsp |                       |
-| Ground bay leaf                                                              |  1/8 tsp |                       |
-| Olive oil pack                                                               |   1 Tbsp | Add after rehydration |
+| Ingredient                                                                           |   Amount | Notes                 |
+| ------------------------------------------------------------------------------------ | -------: | --------------------- |
+| Dehydrated red kidney beans <br> or dehydrated TVP crumbles (ground beef substitute) | 40 grams |                       |
+| Dehydrated RoTel Diced Tomatoes with Green Chili                                     | 15 grams |                       |
+| Dehydrated carrot                                                                    |  5 grams |                       |
+| Dehydrated new potato                                                                | 10 grams |                       |
+| Dehydrated peas                                                                      | 10 grams |                       |
+| Dehydrated corn                                                                      | 10 grams |                       |
+| Dehydrated green beans                                                               |  5 grams |                       |
+| Lipton Onion Soup & Dip Mix                                                          |    1 Tbsp |                       |
+| Worcestershire sauce powder                                                          |    1 tsp |                       |
+| Garlic powder                                                                        |    1 tsp |                       |
+| Onion powder                                                                         |    1 tsp |                       |
+| Ground bay leaf                                                                      |  1/8 tsp |                       |
+| Olive oil pack                                                                       |   1 Tbsp | Add after rehydration |
 
 ## Home
 
@@ -232,8 +290,8 @@ Taken from the _Homemade Dehydrated Camping Food Recipes_
 
 ## Trail
 
-* **Cold Soak** - 30 min or more before you reach camp, place dry ingredients in nalgene bottle. Cover ingredients plus a little extra.  Shake, to mix.
- 
+* **Cold Soak** - 30 min or more before you reach camp, place dry ingredients in Nalgene bottle. Cover ingredients plus a little extra.  Shake, to mix.
+
 ## Camp
 
 * **Hydrate 5 min** - Place dry ingredients in a cooking pot. Pour in enough water to cover the dry ingredients, plus a little extra. Stir well to combine. Cover, and let the dry ingredients hydrate for a minimum of five minutes. Stir well to combine. Add more water if needed to keep the ingredients covered and well-saturated.
@@ -370,7 +428,7 @@ I made this one up :-)
 
 | Ingredient                                  |   Amount | Notes                                                                                          |
 | ------------------------------------------- | -------: | ---------------------------------------------------------------------------------------------- |
-| Dehydrated cut spaghetti                    | 60 grams | Cut pasta works better in the vacuum bags and is easier to eat with a spoon from a meal pouch. |
+|  Cut spaghetti                    | 60 grams | Cut pasta works better in the vacuum bags and is easier to eat with a spoon from a meal pouch.  |
 | Dehydrated Traditional Pasta Sauce (no oil) | 45 grams | No Oil                                                                                         |
 | Dehydrated chopped mushrooms                |  2 grams |                                                                                                |
 | Garlic powder                               |  1/2 tsp |                                                                                                |

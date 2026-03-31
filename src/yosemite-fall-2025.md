@@ -624,21 +624,21 @@ Taken from the _Homemade Dehydrated Camping Food Recipes_
 
 ## Ingredients
 
-| Ingredient                                                                   |   Amount | Notes                 |
-| ---------------------------------------------------------------------------- | -------: | --------------------- |
-| Dehydrated red beans <br> or dehydrated TVP crumbles (ground beef substitute) | 40 grams |                       |
-| Dehydrated RoTel Diced Tomatoes with Green Chili                             | 15 grams |                       |
-| Dehydrated carrot                                                            |  5 grams |                       |
-| Dehydrated new potato                                                        | 10 grams |                       |
-| Dehydrated peas                                                              | 10 grams |                       |
-| Dehydrated corn                                                              | 10 grams |                       |
-| Dehydrated green beans                                                       |  5 grams |                       |
-| Lipton Onion Soup & Dip Mix                                                  |    1 tsp |                       |
-| Worcestershire sauce powder                                                  |    1 tsp |                       |
-| Garlic powder                                                                |    1 tsp |                       |
-| Onion powder                                                                 |    1 tsp |                       |
-| Ground bay leaf                                                              |  1/8 tsp |                       |
-| Olive oil pack                                                               |   1 Tbsp | Add after rehydration |
+| Ingredient                                                                           |   Amount | Notes                 |
+| ------------------------------------------------------------------------------------ | -------: | --------------------- |
+| Dehydrated red kidney beans <br> or dehydrated TVP crumbles (ground beef substitute) | 40 grams |                       |
+| Dehydrated RoTel Diced Tomatoes with Green Chili                                     | 15 grams |                       |
+| Dehydrated carrot                                                                    |  5 grams |                       |
+| Dehydrated new potato                                                                | 10 grams |                       |
+| Dehydrated peas                                                                      | 10 grams |                       |
+| Dehydrated corn                                                                      | 10 grams |                       |
+| Dehydrated green beans                                                               |  5 grams |                       |
+| Lipton Onion Soup & Dip Mix                                                          |    1 Tbsp |                       |
+| Worcestershire sauce powder                                                          |    1 tsp |                       |
+| Garlic powder                                                                        |    1 tsp |                       |
+| Onion powder                                                                         |    1 tsp |                       |
+| Ground bay leaf                                                                      |  1/8 tsp |                       |
+| Olive oil pack                                                                       |   1 Tbsp | Add after rehydration |
 
 ## Home
 
@@ -648,8 +648,8 @@ Taken from the _Homemade Dehydrated Camping Food Recipes_
 
 ## Trail
 
-* **Cold Soak** - 30 min or more before you reach camp, place dry ingredients in nalgene bottle. Cover ingredients plus a little extra.  Shake, to mix.
- 
+* **Cold Soak** - 30 min or more before you reach camp, place dry ingredients in Nalgene bottle. Cover ingredients plus a little extra.  Shake, to mix.
+
 ## Camp
 
 * **Hydrate 5 min** - Place dry ingredients in a cooking pot. Pour in enough water to cover the dry ingredients, plus a little extra. Stir well to combine. Cover, and let the dry ingredients hydrate for a minimum of five minutes. Stir well to combine. Add more water if needed to keep the ingredients covered and well-saturated.
@@ -786,7 +786,7 @@ I made this one up :-)
 
 | Ingredient                                  |   Amount | Notes                                                                                          |
 | ------------------------------------------- | -------: | ---------------------------------------------------------------------------------------------- |
-| Dehydrated cut spaghetti                    | 60 grams | Cut pasta works better in the vacuum bags and is easier to eat with a spoon from a meal pouch. |
+|  Cut spaghetti                    | 60 grams | Cut pasta works better in the vacuum bags and is easier to eat with a spoon from a meal pouch.  |
 | Dehydrated Traditional Pasta Sauce (no oil) | 45 grams | No Oil                                                                                         |
 | Dehydrated chopped mushrooms                |  2 grams |                                                                                                |
 | Garlic powder                               |  1/2 tsp |                                                                                                |
