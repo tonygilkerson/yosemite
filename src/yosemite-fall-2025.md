@@ -763,7 +763,7 @@ Created with ChatGPT
 
 * Mix all dry ingredients (except olive oil) into a resealable bag or vacuum-sealed pouch.
 
-* Pack olive oil separately in a leakproof container (e.g., mini Nalgene bottle).
+* Pack olive oil separately in a leak-proof container (e.g., mini Nalgene bottle).
 
 ## Instructions
 

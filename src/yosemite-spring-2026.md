@@ -12,12 +12,27 @@ Little Yosemite Valley is the most popular area in the Yosemite Wilderness and I
 
 - [ ] Install backup copy of onX on TMG's phone
 - [ ] Download off-line copy of this page to everyone's phone (aeg to text instructions)
-- [ ]  Prepare food and finilize meal plan (AEG)
+- [ ]  Prepare food and finalize meal plan (AEG)
 - [ ]  Estimate how much fuel we need (aeg todo, but LT needs to purchase it once we know)
 - [ ]  TBDs for day 5,6 and 7, including any hotel reservations (LT and TMG)
 - [ ]  Rental Car (?)
 
+## Hike Visualization
+
+To visualize our hike:
+
+![half-dome](img/half-dome.png)
+
+* **Day 1** - We start in the valley (bottom center), hike to the right by **Vernal Falls**, keep going up and to the right to **Nevada Falls**, over the pass an on to base camp at **LYV**
+
+* **Day 2** - Hike up and left to the top of **Half Dome**!, then back down to base camp at **LYV**
+
+* **Day 3** - Hike out to **Quarter Dome** (it is the two peaks visually between Half Dome and Clouds Rest), then back down to base camp at **LYV**
+
+* **Day 4** - Hike back down to the valley but on a different path (high side)
+
 ## The Plan
+
 | Trip<BR>Day | Day    | Description               | Stay     | Distance<br>Elevation Gain/Loss |
 | ----------- | ------ | ------------------------- | -------- | ------------------------------- |
 | 0           | Fri 24 | Fly to LA<br>Hotel in LA  | LT's Pad |                                 |
@@ -48,11 +63,54 @@ todo
 
 Status:
 
-* Finished dehydrating ingredients for **Hungry Hiker Stew**
-* This Saturday 3/21
-  * Will start preparing **Hungry Hiker Stew** into vacuum bags next
-  * Will be shopping for ingredients for next recipe, **Tony's Spaghetti!**
-  * Will start dehydration for next recipe
+* Done preparing and packaging dinner:
+  * **Hungry Hiker Stew** x 6
+  * **Tony's Spaghetti!** x 6
+  * **Mushroom Pasta Alfredo**
+  * **Spiced Rice and Beans**
+* Next I need to start on breakfast
+
+**Dinner Menu:**
+
+> 🫒 All dinners include an optional organic extra virgin olive oil pack.
+
+- 🥘 **D1 · Hungry Hiker Stew (Sweet Potatoes, No Peas)**  
+  Stock: **4 packs**
+
+- 🍲 **D2 · Hungry Hiker Stew (New Potatoes, Peas)**  
+  Stock: **2 packs**
+
+- 🍝 **D3 · Mushroom Pasta Alfredo (Angel Hair, Peas)**  
+  Stock: **2 packs**
+
+- 🍜 **D4 · Mushroom Pasta Alfredo (Angel Hair, No Peas)**  
+  Stock: **2 packs**
+
+- 🌱 **D5 · Mushroom Pasta Alfredo (Edamame Noodles, No Peas)**  
+  Stock: **2 packs**
+
+- 🍅 **D6 · Tony's Spaghetti (Angel Hair)**  
+  Includes optional parmesan cheese pack  
+  Stock: **6 packs**
+
+- 🧄 **D7 · Tony's Spaghetti (Edamame Noodles)**  
+  Includes optional parmesan cheese pack  
+  Stock: **6 packs**
+
+- 🌶️ **D8 · Spiced Rice & Red Beans**  
+  Includes Trader Joe's trail mix for a kick and optional sweet potato pack  
+  Stock: **3 packs**
+
+- 🫘 **D9 · Rice & Black Beans**  
+  Includes optional sweet potato pack plus salt and pepper packs  
+  Stock: **3 packs**
+
+Above is the camp dinner menu. We have 4 camp nights, so please choose 6 meals total: 4 primary choices plus 2 backups.
+
+Each meal is packaged as a half serving, so your 2 backup meals can be used if you are extra hungry or if you want a different option that night.
+
+Text me your order using the meal code and quantity.  
+Example: 1xD1, 2xD3, 2xD6, 1xD8
 
 ## For Fun
 
@@ -221,6 +279,32 @@ You must pick up your permit in person at any open [Yosemite Wilderness Permit 
 * For assistance with your reservation, call 209-372-0740 (Monday through Friday, 9:00 a.m. to 4:00 p.m.).
 
 * If you have general questions about Yosemite Wilderness, call 209-372-0826 (Monday through Friday, 9:00 a.m. to 4:30 p.m.). This number is generally staffed between early May and mid October. 
+
+---
+
+## Appendix - Route Maps
+
+> North is "up" on all maps.
+
+**Day 0**
+
+![day0](img/route-day0-yhi.png)
+
+**Day 1**
+
+![day1](img/route-day1-yhi.png)
+
+**Day 2**
+
+![day2](img/route-day2-yhi.png)
+
+**Day 3**
+
+![day3](img/route-day3-yhi.png)
+
+**Day 4**
+
+![day4](img/route-day4-yhi.png)
 
 ---
 
@@ -405,7 +489,7 @@ Created with ChatGPT
 
 * Mix all dry ingredients (except olive oil) into a resealable bag or vacuum-sealed pouch.
 
-* Pack olive oil separately in a leakproof container (e.g., mini Nalgene bottle).
+* Pack olive oil separately in a leak-proof container (e.g., mini Nalgene bottle).
 
 ## Instructions
 
