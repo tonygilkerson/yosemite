@@ -10,18 +10,14 @@ Little Yosemite Valley is the most popular area in the Yosemite Wilderness and I
 
 ## ToDos
 
-- [ ] Install backup copy of onX on TMG's phone
+- [ ] Estimate how much fuel we need (aeg todo, but LT needs to purchase it once we know)
 - [ ] Download off-line copy of this page to everyone's phone (aeg to text instructions)
-- [ ]  Prepare food and finalize meal plan (AEG)
-- [ ]  Estimate how much fuel we need (aeg todo, but LT needs to purchase it once we know)
-- [ ]  TBDs for day 5,6 and 7, including any hotel reservations (LT and TMG)
-- [ ]  Rental Car (?)
+- [ ] TBDs for day 5,6 and 7, including any hotel reservations (LT and TMG)
+- [x] Install backup copy of onX on TMG's phone
+- [x] Prepare food and finalize meal plan (AEG)
+- [x] Rental Car
 
-## Hike Visualization
-
-To visualize our hike:
-
-![half-dome](img/half-dome.png)
+## Hike By Day
 
 * **Day 1** - We start in the valley (bottom center), hike to the right by **Vernal Falls**, keep going up and to the right to **Nevada Falls**, over the pass an on to base camp at **LYV**
 
@@ -30,6 +26,31 @@ To visualize our hike:
 * **Day 3** - Hike out to **Quarter Dome** (it is the two peaks visually between Half Dome and Clouds Rest), then back down to base camp at **LYV**
 
 * **Day 4** - Hike back down to the valley but on a different path (high side)
+
+## Hike Visualization
+
+Here is a good [YouTub](https://www.youtube.com/watch?v=O8tcVd_La_I) video describing the hike up to Half Dome.
+
+To visualize our hike:
+
+![half-dome-artistic](img/half-dome.png)
+
+---
+
+![half-dome-real](img/half-dome-east-slope-squiggles.jpg)
+> The cables will not be available during our trip but we will hike up the set of switch backs to the top of sub-dome!
+
+---
+
+![glacier-point](img/glacier-point-squiggles-700w.jpg)
+
+> Description below taken from this [trail guide](https://www.yosemitehikes.com/yosemite-valley/half-dome/half-dome.htm)
+
+You start in Yosemite Valley, a little to the left of and below your field of vision, then hike south to the canyon where the waterfalls of the **Mist Trail** live. You'll hike up the right side of **Vernal Fall** (the lower fall in the photo), including a grueling set of steps carved into the cliff wall for the last few hundred meters to the top of the fall. If you hadn't worked up a sweat yet, you will on this stretch. If you're hiking in the spring or early summer, the mist from **Vernal Fall** will provide some solace.
+
+About half a mile above **Vernal Fall**, you'll cross the **Merced River** again and head up the left side of the canyon to the top of **Nevada Fall**. The stretch up the canyon beside the fall is steep and switchbacked. At the top are pit toilets and benches where you can catch your breath and celebrate the fact that although you may be less than halfway there, you are about to get a respite from climbing.
+
+The Mist Trail ends at the top of **Nevada Fall**. Beyond here, the trail takes a mostly flat route for a mile through **Little Yosemite Valley**, some of it beside the **Merced River**, before angling left to make your way up to Half Dome's eastern shoulder.
 
 ## The Plan
 
@@ -51,24 +72,37 @@ To visualize our hike:
 * **Quarter Dome** (QD) - Elevation 8,274 ft
 * **Clouds Rest** (CR) - Elevation 9,912 ft
 
+## Bathrooms and Water
+
+**Toilets**
+
+* At Happy Isles (including plumbing) just across the river from the trail head
+* at the bridge below Vernal Fall (also with plumbing)
+* near the Emerald Pool above Vernal Fall (outhouse style)
+* above Nevada Fall (outhouse)
+* at Little Yosemite Valley campground
+
+**Water Source**
+
+The drinking fountain is situated near the restrooms right after you cross the footbridge heading up from Happy Isles.
+
+This map shows the first part of **Day 1**, the closures should not affect us but it does a good job showing the bathrooms and water sources.
+
+![trail-close](img/map_2026_MistTrailIceCutClosureSigns_V1.webp)
+
 ## Hotel Reservation
 
-todo
+LT's place
 
 ## Rental Car
 
-todo
+✅🚘 Rental Car reserved 4/24-5/3
+
+* Std. Crossover SUV  (ex. Ford Explorer)
+* Costco Travel conf#: `C488140865`
+* Enterprise Conf#: `2103395320`
 
 ## Meal Plan
-
-Status:
-
-* Done preparing and packaging dinner:
-  * **Hungry Hiker Stew** x 6
-  * **Tony's Spaghetti!** x 6
-  * **Mushroom Pasta Alfredo**
-  * **Spiced Rice and Beans**
-* Next I need to start on breakfast
 
 **Dinner Menu:**
 
@@ -111,6 +145,12 @@ Each meal is packaged as a half serving, so your 2 backup meals can be used if y
 
 Text me your order using the meal code and quantity.  
 Example: 1xD1, 2xD3, 2xD6, 1xD8
+
+**Orders**
+
+* LT: (2)D1, (1)D2, (1)D3, (1)D4 (1)D5 pls 🫶🏼
+* TMG: (1)D1, (1)D5, (1)D7, (1)D9.  I still need two alternates
+* AEG: TODO
 
 ## For Fun
 
