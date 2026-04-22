@@ -8,15 +8,6 @@ Little Yosemite Valley is the most popular area in the Yosemite Wilderness and I
 * **Reservation**: [0843051152-1](https://www.recreation.gov/account/reservations/upcoming](https://www.recreation.gov/account/orders/0843051152/reservations/b843e2c1-e30c-4c66-ba79-dc63e1323d47__445859)) - see [my reservations](https://www.recreation.gov/account/reservations/upcoming) on [www.recreation.gov](https://www.recreation.gov). This reservation can be view using the [recreation.gov mobile app](https://www.recreation.gov/mobile-app)
 * See the [Yosemite Guide Brochure](pdf/yosemite-guide-51-3-508V1.pdf) for Yosemite essentials, park map, services, transportation, programs and Valley trails.
 
-## ToDos
-
-- [ ] Estimate how much fuel we need (aeg todo, but LT needs to purchase it once we know)
-- [ ] Download off-line copy of this page to everyone's phone (aeg to text instructions)
-- [ ] TBDs for day 5,6 and 7, including any hotel reservations (LT and TMG)
-- [x] Install backup copy of onX on TMG's phone
-- [x] Prepare food and finalize meal plan (AEG)
-- [x] Rental Car
-
 ## Hike By Day
 
 * **Day 1** - We start in the valley (bottom center), hike to the right by **Vernal Falls**, keep going up and to the right to **Nevada Falls**, over the pass an on to base camp at **LYV**
@@ -322,6 +313,10 @@ You must pick up your permit in person at any open [Yosemite Wilderness Permit 
 
 ---
 
+## Appendix - Weather Forcast
+
+* See the [Weather Map](https://www.nps.gov/yose/planyourvisit/weathermap.htm)
+
 ## Appendix - Route Maps
 
 > North is "up" on all maps.
@@ -347,6 +342,42 @@ You must pick up your permit in person at any open [Yosemite Wilderness Permit 
 ![day4](img/route-day4-yhi.png)
 
 ---
+
+## Appendix - Estimating How Much Fuel
+
+For more detail see [this REI Expert Advice article](https://www.rei.com/learn/expert-advice/how-much-stove-fuel-should-i-take-on-my-backpacking-trip.html)
+
+To get a ballpark estimate I am going to count the boils needed. For example, for breakfast I will need two boils, one for coffee and one for oats.  For dinner I will also need two boils one for food hydration and a second for cooking time.
+
+* Assume: 4 boils per person per day (**4b**)
+
+For fuel I plan to use the small 100g cans.  According to the REI article noted above you can get ~12 boils. I am going to round that down to 10 to be safe.
+
+* Assume: 10 boils per can (**10pbd**)
+
+Doing the math for three people (**3p**) and 3 days (**3d**), the first and last day count as a half days. So that is 2 full days and two half days for a total of three days.
+
+```eq
+number of cans = (3p * 3d * 4b) / 10bpd = 3.6 (round up to 4)
+```
+
+> We need **4** cans, 100g each
+
+---
+
+## Appendix - How to Save This Document Off-line
+
+**Create Web Archive**
+
+* Using Safari navigate to [this page](https://notebook.tonygilkerson.us/outside/backpacking/yosemite-fall-2025/)
+* From the menu bar at the top choose "save as"
+* Make sure the type is "Web Archive"
+* Give the file a good name and store it in the iCloud under the Yosmite folder
+
+**Save Offline**
+
+* Using the Files app on your iPhone, download said file
+* Now you can view the web page off-line
 
 ## Appendix - Recipes
 
@@ -582,3 +613,20 @@ I made this one up :-)
 * **Steep 10 min** - Place pot in a cozy and set aside for to hydrate and steam for 10 min more for flavors to blend and ingredients to fully reconstitute.
 
 * **Serve** - Pour into meal pouch, drizzle oil on top and mix. Finally, sprinkle on the cheese and enjoy!
+
+
+# General Dinner Preparation
+
+1. **Start Hydration** - Add dry ingredients to a cooking pot. Pour in enough water to fully cover ingredients, plus a little extra. Stir well and set aside.
+
+2. **Setup Stove** - Assemble your stove and locate the wind blocker (the silver bubble-wrap material). Light the stove set to low.
+
+3. **First Simmer** - Place the pot on the stove and increase heat as needed, being careful not to burn the food. Once boiling, reduce heat and simmer for about **3 minutes**.
+
+4. **Hydration** - Turn off the stove and set the pot aside (cover with the silver heat blanket if available) for 15–20 minutes. Check occasionally and add water as needed to keep ingredients covered and well-saturated.
+
+5. **Second Simmer** - Return the pot to the stove and simmer for 5–10 minutes, or until ready. Since hydration takes time, err on the longer side if you can wait.
+
+6. **Meal Pouch** - Transfer food to a meal pouch. Add any extras such as olive oil or cheese. Seal the pouch and set aside to let the flavors blend and ingredients fully reconstitute.
+
+7. **Enjoy** - When the meal has cooled enough to eat, use a long spoon and eat directly from the pouch. Enjoy!

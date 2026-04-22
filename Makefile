@@ -44,4 +44,6 @@ cpContent:
 	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/spiced-rice-and-beans.md >> src/yosemite-spring-2026.md
 	echo "\n" >> src/yosemite-spring-2026.md
 	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/tonys-spaghetti.md >> src/yosemite-spring-2026.md
+	echo "\n" >> src/yosemite-spring-2026.md
+	cat ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes/general-dinner-prep.md >> src/yosemite-spring-2026.md
 	
